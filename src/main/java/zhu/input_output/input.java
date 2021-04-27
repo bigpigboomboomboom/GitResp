@@ -75,7 +75,6 @@ public class input {
         String c = in.next() ;
         System.out.println(c);
         in.close();
-
     }
 
 }
